@@ -83,7 +83,7 @@ npm install -g elm
 
 ---
 
-## 🙌 Obrigada por chegar até aqui!
+## Obrigado por chegar até aqui!
 
 Se você trabalha com tecnologia jurídica ou simplesmente gosta de boas ideias bem implementadas, sinta-se à vontade para dar feedbacks, sugestões ou só trocar uma ideia.  
 Será um prazer compartilhar experiências e aprender junto.
