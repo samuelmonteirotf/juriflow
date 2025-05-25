@@ -2,7 +2,7 @@
 # 🧾 JuriFlow
 
 **Organize suas tarefas jurídicas com clareza e elegância.**  
-Um projeto pessoal criado com muito carinho em **Elm**, focado em produtividade, design limpo e aplicação prática para o dia a dia da advocacia.
+Um projeto pessoal criado em **Elm**, focado em produtividade, design limpo e aplicação prática para o dia a dia da advocacia.
 
 ---
 
