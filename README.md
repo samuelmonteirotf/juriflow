@@ -1,5 +1,5 @@
 
-# 🧾 JuriFlow
+# JuriFlow
 
 **Organize suas tarefas jurídicas com clareza e elegância.**  
 Um projeto pessoal criado em **Elm**, focado em produtividade, design limpo e aplicação prática para o dia a dia da advocacia.
@@ -14,7 +14,7 @@ Além disso, este projeto também é uma forma de demonstrar meu domínio técni
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - ** Elm** — linguagem funcional que compila para JavaScript
 - ** CSS3** — estilização com responsividade e visual limpo
@@ -23,7 +23,7 @@ Além disso, este projeto também é uma forma de demonstrar meu domínio técni
 
 ---
 
-## ⚙️ O que o JuriFlow faz?
+## O que o JuriFlow faz?
 
 - ✅ Adiciona tarefas jurídicas com título e data
 - ✅ Mostra uma lista clara e organizada
@@ -34,7 +34,7 @@ Além disso, este projeto também é uma forma de demonstrar meu domínio técni
 
 ---
 
-## 🖼️ Visual e identidade
+## Visual e identidade
 
 Desenvolvi um layout limpo e moderno, com cores inspiradas no mundo jurídico, mas com toques suaves que trazem leveza à rotina:
 
@@ -45,7 +45,7 @@ Desenvolvi um layout limpo e moderno, com cores inspiradas no mundo jurídico, m
 
 ---
 
-## 📌 Sobre mim
+## Sobre mim
 
 Me chamo **Samuel Monteiro Junior**, sou formado em Direito e apaixonado por tecnologia e inovação. Tenho experiência com suporte técnico, sistemas jurídicos e desenvolvimento Web com foco em projetos que façam sentido e gerem impacto real.
 
@@ -53,7 +53,7 @@ Este projeto é uma amostra do que gosto de construir: **ferramentas que ajudam 
 
 ---
 
-## 🚀 Como rodar o projeto localmente
+## Como rodar o projeto localmente
 
 1. Clone o repositório:
 ```bash
@@ -77,7 +77,7 @@ npm install -g elm
 
 ---
 
-## 💬 Frase de rodapé do projeto
+## Frase de rodapé do projeto
 
 > **JuriFlow – Desenvolvido em Elm com foco em excelência, clareza e impacto.**
 
