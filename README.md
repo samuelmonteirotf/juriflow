@@ -2,22 +2,28 @@
 
 **Gerenciador moderno de tarefas e processos para escritórios de advocacia**
 
-To-do list jurídica evoluída para Next.js 15 — com interface v0-style, shadcn/ui e animações fluidas.
+To-do list jurídica evoluída para Next.js 15 — com interface nível SaaS 2026, shadcn/ui e animações fluidas.
+
+## 📸 Interface do Dashboard
+*(Substitua o arquivo `./public/printscreen.png` com o print real da sua tela principal)*
+![JuriFlow Dashboard](./public/printscreen.png)
 
 ## Tecnologias
 - Next.js 15 + TypeScript
-- shadcn/ui + Radix UI + Tailwind CSS
+- shadcn/ui + Radix UI + Tailwind CSS (Tema Premium Índigo/Dark)
 - Zod (validação) + LocalStorage (pronto pra backend)
+- Framer Motion (Animações suaves e micro-interações)
 - Vercel-ready
 
 ## Funcionalidades
-- Tarefas com prazo automático
-- Kanban + lista inteligente
-- Filtros por cliente/processo
-- Design hipermoderno com framer-motion
+- **Gestão de Tarefas:** Criação de tarefas com prazos e prioridades (Baixa, Média, Alta).
+- **Filtros Avançados:** Filtre por cliente ou status (Todas, Prazos vencidos, Esta semana).
+- **Alertas Inteligentes:** Badges de prazo em vermelho (Atrasado) e Toasts dinâmicos de sucesso (Sonner).
+- **Relatórios:** Exportação rápida de tarefas para planilhas CSV/Excel com um clique.
+- **Design Hipermoderno:** Interface com suporte automático ao Dark Mode (next-themes) e responsividade mobile.
 
 ## Integrações LegalTech
-Conecta com **Jusfy**, **Docket** e **PJe**. Ideal pra substituir planilhas e WhatsApp.
+Conecta com **Jusfy**, **Docket** e **PJe**. Ideal pra substituir planilhas e WhatsApp no dia a dia do seu escritório.
 
 ## Como rodar
 ```bash
@@ -25,3 +31,4 @@ git clone https://github.com/samuelmonteirotf/juriflow.git
 cd juriflow
 npm install
 npm run dev
+```
