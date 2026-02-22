@@ -5,8 +5,7 @@
 To-do list jurídica evoluída para Next.js 15 — com interface nível SaaS 2026, shadcn/ui e animações fluidas.
 
 ## 📸 Interface do Dashboard
-*(Substitua o arquivo `./public/printscreen.png` com o print real da sua tela principal)*
-![JuriFlow Dashboard](./public/printscreen.png)
+![JuriFlow Dashboard]![alt text](image.png)
 
 ## Tecnologias
 - Next.js 15 + TypeScript
