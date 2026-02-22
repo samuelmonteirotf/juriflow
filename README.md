@@ -22,7 +22,7 @@ To-do list jurídica evoluída para Next.js 15 — com interface nível SaaS 202
 - **Design Hipermoderno:** Interface com suporte automático ao Dark Mode (next-themes) e responsividade mobile.
 
 ## Integrações LegalTech
-Conecta com **Jusfy**, **Docket** e **PJe**. Ideal pra substituir planilhas e WhatsApp no dia a dia do seu escritório.
+Arquitetura pronta para conectar com Jusfy, Docket e PJe. Ideal para substituir planilhas e WhatsApp no dia a dia do escritório.
 
 ## Como rodar
 ```bash
